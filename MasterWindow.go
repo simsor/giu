@@ -4,7 +4,7 @@ import (
 	"image/color"
 	"time"
 
-	"github.com/AllenDang/giu/imgui"
+	"github.com/simsor/giu/imgui"
 )
 
 type MasterWindowFlags imgui.GLFWWindowFlags

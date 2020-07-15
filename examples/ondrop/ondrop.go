@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	g "github.com/AllenDang/giu"
+	g "github.com/simsor/giu"
 )
 
 var (

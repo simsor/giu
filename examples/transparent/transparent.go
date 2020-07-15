@@ -4,8 +4,8 @@ import (
 	"image"
 	"image/color"
 
-	g "github.com/AllenDang/giu"
-	"github.com/AllenDang/giu/imgui"
+	g "github.com/simsor/giu"
+	"github.com/simsor/giu/imgui"
 )
 
 func loop() {
