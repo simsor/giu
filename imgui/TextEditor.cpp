@@ -9,6 +9,8 @@
 #define IMGUI_DEFINE_MATH_OPERATORS
 #include "imgui.h" // for imGui::GetCurrentWindow()
 
+int isascii(int ch) { return ch >= 0 && ch < 128; }
+
 // TODO
 // - multiline comments vs single-line: latter is blocking start of a ML
 
